@@ -1,0 +1,11 @@
+# system files
+Thumbs.db
+.DS_Store
+
+# cache files
+application/cache/*
+!application/cache/.htaccess
+
+# log files
+application/logs/*
+!application/logs/.htaccess
